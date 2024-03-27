@@ -1,0 +1,142 @@
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_CARD.pck (1 hit)
+	Line  848:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => vn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_DCS_INTEGRATION.pck (1 hit)
+	Line  5956:     pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => rec1.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_DOB.pck (1 hit)
+	Line 351:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_HESAP.pck (4 hits)
+	Line  183:  	Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+	Line  235:   	Procedure Rezerv_Vadesiz_Hesap_Acilis(pn_musteri_no number, 
+	Line 2815:  	Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+	Line 3191: 		Procedure Rezerv_Vadesiz_Hesap_Acilis(pn_musteri_no number, 
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_KOPRU_IBAN.pck (1 hit)
+	Line 172:       pkg_hesap.vadesiz_hesap_acilis(vn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_PTT_MUSTERI.pck (1 hit)
+	Line  470:  pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_RC3295.pck (1 hit)
+	Line 2403:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => pn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_SIGORTA_MUSTERI.pck (1 hit)
+	Line 218:       /* pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => pc_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN10011.pck (1 hit)
+	Line 2748:      pkg_hesap.vadesiz_hesap_acilis(ln_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN10012.pck (1 hit)
+	Line 1278:      pkg_hesap.vadesiz_hesap_acilis(ln_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1080.pck (4 hits)
+	Line  29:   	Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+	Line 349:       vadesiz_hesap_acilis(r_islem.musteri_no,r_islem.hesap_ucreti_f,whesno);
+	Line 564:       vadesiz_hesap_acilis(ln_musteri_no,rdata.hesap_ucreti_f,lc_hesap_no); -- burada vadesiz hesap acilis procedure u cagrİlacak
+	Line 582:  		Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN12000.pck (1 hit)
+	Line 213:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => pn_musteri_no, 
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1306.pck (1 hit)
+	Line  836:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_spfw.banka_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1308.pck (10 hits)
+	Line  773:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  785:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  798:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  810:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  823:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  835:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  848:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  860:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  873:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  885:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1318.pck (3 hits)
+	Line  493:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_swap.BANKA_MUSTERI_NO,
+	Line  511:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_swap.BANKA_MUSTERI_NO,
+	Line  529:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_swap.BANKA_MUSTERI_NO,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1324.pck (8 hits)
+	Line  749:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  761:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  774:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  786:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  799:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  811:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  824:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+	Line  838:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_swap.BANKA_MUSTERI_NO,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1401.pck (1 hit)
+	Line 226:  		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1402.pck (1 hit)
+	Line  426: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1424.pck (1 hit)
+	Line 224:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_1.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1440.pck (2 hits)
+	Line  495:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  504:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1466.pck (1 hit)
+	Line  443:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1468.pck (2 hits)
+	Line  448:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  455:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1470.pck (2 hits)
+	Line  460:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  469:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1570.pck (2 hits)
+	Line 596: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => pn_musteri_no,
+	Line 800: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => pn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1571.pck (1 hit)
+	Line 1299: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_islem.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1578.pck (1 hit)
+	Line 1190:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_islem.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1821.pck (2 hits)
+	Line  453: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  467: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1831.pck (2 hits)
+	Line  359: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  366: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1836.pck (2 hits)
+	Line  506:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  518:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1851.pck (2 hits)
+	Line  943:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  957:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1920.pck (1 hit)
+	Line  974:     	pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_repo.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1935.pck (2 hits)
+	Line  721:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  735:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN1960.pck (2 hits)
+	Line  469:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+	Line  483:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_bono.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2111.pck (1 hit)
+	Line 199:       pkg_hesap.vadesiz_hesap_acilis(r_islem.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2112.pck (1 hit)
+	Line 196:       pkg_hesap.vadesiz_hesap_acilis(r_islem.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2152.pck (2 hits)
+	Line  387:      pkg_hesap.vadesiz_hesap_acilis(r_krl.musteri_no1,
+	Line  399:      pkg_hesap.vadesiz_hesap_acilis(r_krl.musteri_no1,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2500.pck (1 hit)
+	Line 255:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r_tx_tablo.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2510.pck (3 hits)
+	Line  21:   	Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+	Line 399: 		vadesiz_hesap_acilis(r_tx_tablo.musteri_no,r_tx_tablo.sube_kodu,ln_bloke_hesap_no);
+	Line 615:  		Procedure vadesiz_hesap_acilis(pn_musteri_no in number,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2515.pck (1 hit)
+	Line 474: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_0.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2550.pck (3 hits)
+	Line 235: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_tx_tablo.musteri_no,
+	Line 261: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_tx_tablo.musteri_no,
+	Line 294: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_tx_tablo.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN2563.pck (8 hits)
+	Line 287:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 306:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 328:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 351:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 372:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 392:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 416:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+	Line 437:       Pkg_Hesap.Vadesiz_Hesap_Acilis(Pn_Musteri_No     => r_Tx_Devir_Bordro.Musteri_No,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3013.pck (1 hit)
+	Line 1269:      pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => pn_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3244.pck (1 hit)
+	Line 264:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3251.pck (1 hit)
+	Line 248:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3256.pck (1 hit)
+	Line 266:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no     => r.musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3259.pck (1 hit)
+	Line 313:       pkg_hesap.vadesiz_hesap_acilis(pn_musteriNo, 'VADESIZ', 'MUH.ALC-TP', 'SIGORTA ALACAK',
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN3601.pck (1 hit)
+	Line 402:       pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_spfw.banka_musteri_no,
+  C:\Users\ceyhun.sonmez\Documents\CEYHUN\BNSPR\plsql\PKG_TRN4500.pck (1 hit)
+	Line 238: 		pkg_hesap.vadesiz_hesap_acilis(pn_musteri_no => r_bordro.musteri_no,
